@@ -1,0 +1,19 @@
+header{
+  padding: 20px;
+  background-color: #fff;
+}
+.get_btn{
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: none;
+  border: none;
+  background-color: gold;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  text-transform: uppercase;
+  cursor: pointer;
+}
